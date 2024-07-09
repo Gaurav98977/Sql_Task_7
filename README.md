@@ -1,0 +1,6 @@
+-- Task: Update in View
+-- Update the 'generation' column in the 'console' table based on a condition from the 'having_data' view.
+-- Task: Alter View
+-- Alter the 'having_data' view to include new columns by dropping and recreating the view.
+-- Task: Delete in View
+-- Delete records from the 'console' table based on a condition from the 'having_data' view.
